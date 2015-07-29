@@ -1,0 +1,13 @@
+Ingredients:
+ - 1 tablespoon item one
+ - 2 teaspoons item two
+ - 3 teaspoons item three
+ - 4 cups item four
+ - 5 item fives
+
+Directions:
+ 1. Do direction one.
+
+ 2. Do direction two.
+
+ 3. Do direction three.
